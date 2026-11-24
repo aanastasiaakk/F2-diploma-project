@@ -44,7 +44,10 @@
 
 ## Розділ 2 — Архітектурне проєктування
 
+**Статус етапу:** Done (Архітектура, моделі даних, API-контракти, алгоритми — Розділ 2)
+
 - [SRS — Специфікація вимог (ISO/IEC/IEEE 29148)](srs.md)
 - [ADR — Architecture Decision Records](adr/)
   - [ADR-001: Вибір сховища для векторних embeddings](adr/0001-choice-of-technology.md)
-- [2. Архітектурне проєктування (C4 Model, Context/Container/Component)](2_design.md)
+- [2. Архітектурне проєктування (C4 Model, ERD, API-контракти, алгоритми)](2_design.md)
+  - [openapi.yaml — специфікація API-контрактів](api/openapi.yaml)
